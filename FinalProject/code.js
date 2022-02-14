@@ -239,7 +239,7 @@ function chkCreds() {//I barely changed anything.  I changed the minumum number 
         //I don't know the correct phrase.  I've tried reset and refresh but neither are correct.
     } else {
         alert("Access Granted, Welcome " + fullName + "!");
-        location.replace("Home.html");
+        location.replace("FinalProject/Home.html");
     }
 }
 
