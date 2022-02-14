@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <title>Login</title>
+    <img src="UATspaceLogo-2.jpg" alt="UAT Space Logo">
+    <link rel = "stylesheet" href = "login.css">
+    <script src="code.js"></script>
+</head>
+<body>
+<h1>UAT Login Screen...Please Log In</h1>
+<br>
+<p id="loginStatus" class="texty">Status of login...</p>
+<br>
+<form id ="credSubmit" onsubmit="return false">
+    First Name:     <input type="text"  id="fName"  /><br>
+    Last Name:      <input type="text"  id="lName"  /><br>
+    Badge Number:   <input type="number"  id="badgeID"  /><br>
+    <input type="submit" onclick="chkCreds();"  />
+</form>
+    
+</body>
+</html>

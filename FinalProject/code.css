@@ -1,0 +1,42 @@
+body{
+    background-color: beige;
+
+}
+p{  text-align: center;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+    color: chocolate;
+    text-align: center;
+}
+
+button{
+    border-style: groove;
+       color: ivory;
+       background-color: black;
+       border-radius: 25%;
+}
+ 
+
+h2{
+ text-align: center;
+ color: darkorange;
+}
+h3{
+ text-align: center;
+ text-decoration-color: blue;
+}
+
+input{
+ color: white;
+ background-color: dimgrey;
+ border-radius: 20%;
+ text-align: center;
+ 
+}
+img{
+    width: auto;
+    margin: auto;
+    display: block;
+}

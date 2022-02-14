@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(207, 204, 7);
+    background-image: repeating-conic-gradient(rgb(240, 197, 9) 10%, #e41111 20%);
+}
+
+.button {
+    background-color: rgb(207, 74, 167);
+    width: 100px;
+    height: 30px;
+    border-radius: 12px;
+    border-color: rgb(236, 31, 82);
+}
+
+.lgButton {
+    background-color: rgb(100, 71, 82);
+    width: 200px;
+    height: 30px;
+    border-radius: 12px;
+    border-color: rgb(42, 20, 236);
+}
