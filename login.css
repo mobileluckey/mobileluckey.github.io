@@ -1,0 +1,21 @@
+body{
+    background-color: lightgray;
+    
+}
+h1{
+    color: chocolate;
+    font-style: italic;
+    text-align: center;
+}
+input{
+    background-color: black;
+    text-align: center;
+    color: ivory;
+    border-radius: 20%;
+    
+}
+img{
+    width: auto;
+    margin: auto;
+    display: block;
+}
